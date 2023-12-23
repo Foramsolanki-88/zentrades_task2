@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#importScreen {
+    margin-bottom: 20px;
+}
+
+#displayOptions {
+    margin-bottom: 20px;
+}
+
+select {
+    width: 150px;
+}
+
+button {
+    margin: 5px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
